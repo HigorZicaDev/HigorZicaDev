@@ -2,7 +2,7 @@
 Hi 👋 My name is Higor Zica
 ================================
 
-Développeur Web
+Web Developer
 -------------------------------
 
 Back-End | PHP | Laravel | Docker | JavaScript | React | TypeScript | NodeJS | Cloud Jr. (AWS, Hostinger, Digital Ocean) | MySQL | MongoDB
