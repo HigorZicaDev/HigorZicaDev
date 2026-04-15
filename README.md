@@ -1,13 +1,10 @@
 
-Desenvolvedor PHP, Laravel, and Symfony Backend com mais de 6 anos de experiência em desenvolvimento web, com forte foco em soluções limpas, funcionais e bem documentadas.
-================================
-
 Developer Fullstack
 -------------------------------
 
 Back-End | PHP | Laravel | Docker | JavaScript | React | TypeScript | NodeJS | Cloud Jr. (AWS, Hostinger, Digital Ocean) | MySQL | MongoDB
 
-* 🌍  I'm based in France
+* 🌍  I'm based in Belo Horizonte - MG - Brasil
 * ✉️  You can contact me at [https://higorzicadev.com.br](mailto:hztech.dev.fr@gmail.com)
 * 🚀  I'm currently working on [Hz-Tech](https://higorzicadev.com.br)
 
@@ -38,4 +35,4 @@ src="	https://avatars.githubusercontent.com/u/165382509?v=4" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
+</div>
