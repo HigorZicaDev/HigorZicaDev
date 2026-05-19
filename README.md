@@ -1,12 +1,12 @@
 
-Developer Fullstack
+Desenvolvedor Fullstack
 -------------------------------
 
 Back-End | PHP | Laravel | Docker | JavaScript | React | TypeScript | NodeJS | Cloud Jr. (AWS, Hostinger, Digital Ocean) | MySQL | MongoDB
 
-* 🌍  I'm based in Belo Horizonte - MG - Brasil
-* ✉️  You can contact me at [https://higorzicadev.com.br](mailto:hztech.dev.fr@gmail.com)
-* 🚀  I'm currently working on [Hz-Tech](https://higorzicadev.com.br)
+* 🌍 Belo Horizonte - MG - Brasil
+* ✉️  Contato e-mail : [https://hzica.com.br](mailto:hztech.dev.fr@gmail.com)
+* 🚀  Atualmente atuando como Freelancer [Hzica](https://hzica.com.br)
 
 <a href="https://github.com/HigorZicaDev" target="_blank" rel="noreferrer"><img
 src="	https://avatars.githubusercontent.com/u/165382509?v=4" /></a>
